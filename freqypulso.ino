@@ -38,9 +38,6 @@ void setup() {
   pinMode(pin13, OUTPUT);
   pinMode(pinLED, OUTPUT);
   lcd.begin(16, 2);
-  
- 
-
 }
 
 void loop() {
